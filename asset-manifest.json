@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7ef3257.chunk.css",
+    "main.js": "/static/js/main.c74f1c6b.chunk.js",
+    "main.js.map": "/static/js/main.c74f1c6b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c5b5527b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c5b5527b.js.map",
+    "static/js/2.758192a6.chunk.js": "/static/js/2.758192a6.chunk.js",
+    "static/js/2.758192a6.chunk.js.map": "/static/js/2.758192a6.chunk.js.map",
+    "static/js/3.75f0f0d9.chunk.js": "/static/js/3.75f0f0d9.chunk.js",
+    "static/js/3.75f0f0d9.chunk.js.map": "/static/js/3.75f0f0d9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f7ef3257.chunk.css.map": "/static/css/main.f7ef3257.chunk.css.map",
+    "static/js/2.758192a6.chunk.js.LICENSE.txt": "/static/js/2.758192a6.chunk.js.LICENSE.txt",
+    "static/media/ChaChing.ffb0e827.m4a": "/static/media/ChaChing.ffb0e827.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b5527b.js",
+    "static/js/2.758192a6.chunk.js",
+    "static/css/main.f7ef3257.chunk.css",
+    "static/js/main.c74f1c6b.chunk.js"
+  ]
+}
